@@ -15,8 +15,8 @@ const NavBar = ({ setShow }) => {
     <div className={classes.navBar}>
       <div className={classes.left}>
         <div className={classes.home}>
-          <h1>
-            <a href="/home">Home</a>
+          <h1 style={{ letterSpacing: "5px", fontWeight: 400 }}>
+            <a href="/home">LUMIN</a>
           </h1>
         </div>
         <div>
