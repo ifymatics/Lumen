@@ -8,7 +8,7 @@ import {
 import { CURRENCY, PRODUCTS } from "./queries/queries";
 
 const client = new ApolloClient({
-  uri: "https://pangaea-interviews.vercel.app/api/graphql",
+  uri: process.env.REACT_APP_GRAPHQL_SERVER_URL,
   cache: new InMemoryCache(),
 });
 

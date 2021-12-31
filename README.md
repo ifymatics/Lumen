@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Fetching products from backend
+
+Please create a .env file, then create a variable called REACT_APP_GRAPHQL_SERVER_URL inside the .env file, finally, put your graphQL backend endnpoint and you're good to go
