@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lumen/static/css/main.d720badf.css",
+    "main.js": "/Lumen/static/js/main.e0e73fda.js",
+    "index.html": "/Lumen/index.html",
+    "main.d720badf.css.map": "/Lumen/static/css/main.d720badf.css.map",
+    "main.e0e73fda.js.map": "/Lumen/static/js/main.e0e73fda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d720badf.css",
+    "static/js/main.e0e73fda.js"
+  ]
+}
